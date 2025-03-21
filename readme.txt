@@ -1,4 +1,4 @@
-##Instructions
+Instructions
 
 1. Download mnist_classifier1.py
 2. Open PowerShell as admin
